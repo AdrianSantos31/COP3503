@@ -2,29 +2,35 @@
 These are the projects for Computer Science 2.
 
 Homework 1
+
 This program will compute the cost of driving based on the:
    A.) Driving distance,
    B.) Fuel efficiney of the car in miles per gallon
    C.) Price per gallon
    
 Homework 2
+
 This program combines problems 5.24 and 5.25
    5.24 - Sum a series
    5.25 - Compute pI (π)
    
 Homework 3
+
 This program will process an array. This class contains a lot arrays
 
 Homework 4
+
 Your code must override the toString method in each class to display ALL the relevant information from the record.
 Also design an application class (your nnumber class with a main)  that tests your classes and processes a file of records.
 The file of data to be used will be constructed by me with the following format used (examples are here):
 I WILL USE NOTEPAD TO CONSTRUCT THE FILE. TEST WITH A FILE FROM NOTEPAD.
 
 Homework 5
+
 OOP Using Alice
 
 Homework 6
+
  Write a single program that produces Figure 14.52 (part b)  and
         Figure 14.48  (part a)  and Figure 14.45 (part b).  All three should be visible at
         the same time in a single window.
