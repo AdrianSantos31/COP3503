@@ -1,4 +1,4 @@
-# COP3503
+# computer-science-2
 These are the projects for Computer Science 2.
 
 Homework 1
